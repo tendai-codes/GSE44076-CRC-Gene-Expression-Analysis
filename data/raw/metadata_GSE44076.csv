@@ -1,0 +1,231 @@
+sample_id,refinebio_age,refinebio_disease,refinebio_sex,refinebio_subject,characteristics_ch1_Stage,characteristics_ch1_location,source_name_ch1
+GSM1077598,62,mucosa,male,a2119,--,Left,Healthy colon mucosa cells
+GSM1077599,77,mucosa,female,a2142,--,Left,Healthy colon mucosa cells
+GSM1077600,78,mucosa,female,b2104,--,Left,Healthy colon mucosa cells
+GSM1077601,65,mucosa,male,b2127,--,Right,Healthy colon mucosa cells
+GSM1077602,52,mucosa,female,b2150,--,Right,Healthy colon mucosa cells
+GSM1077603,63,mucosa,male,c2113,--,Right,Healthy colon mucosa cells
+GSM1077604,74,mucosa,male,c2136,--,Right,Healthy colon mucosa cells
+GSM1077605,70,mucosa,male,d2102,--,Right,Healthy colon mucosa cells
+GSM1077606,68,mucosa,male,d2125,--,Right,Healthy colon mucosa cells
+GSM1077607,52,mucosa,male,d2148,--,Right,Healthy colon mucosa cells
+GSM1077608,55,mucosa,female,e2115,--,Right,Healthy colon mucosa cells
+GSM1077609,79,mucosa,female,e2138,--,Left,Healthy colon mucosa cells
+GSM1077610,72,mucosa,female,f2123,--,Left,Healthy colon mucosa cells
+GSM1077611,25,mucosa,female,f2146,--,Left,Healthy colon mucosa cells
+GSM1077612,54,mucosa,male,g2120,--,Right,Healthy colon mucosa cells
+GSM1077613,52,mucosa,female,g2143,--,Right,Healthy colon mucosa cells
+GSM1077614,67,mucosa,female,h2111,--,Left,Healthy colon mucosa cells
+GSM1077615,79,mucosa,male,h2134,--,Right,Healthy colon mucosa cells
+GSM1077616,68,mucosa,female,j2106,--,Left,Healthy colon mucosa cells
+GSM1077617,38,mucosa,male,j2129,--,Left,Healthy colon mucosa cells
+GSM1077618,70,mucosa,female,k2114,--,Right,Healthy colon mucosa cells
+GSM1077619,51,mucosa,female,k2137,--,Right,Healthy colon mucosa cells
+GSM1077620,77,mucosa,female,l2112,--,Right,Healthy colon mucosa cells
+GSM1077621,66,mucosa,male,l2135,--,Right,Healthy colon mucosa cells
+GSM1077622,53,mucosa,male,m2121,--,Left,Healthy colon mucosa cells
+GSM1077623,45,mucosa,female,m2144,--,Right,Healthy colon mucosa cells
+GSM1077624,52,mucosa,female,n2105,--,Right,Healthy colon mucosa cells
+GSM1077625,61,mucosa,female,n2128,--,Right,Healthy colon mucosa cells
+GSM1077626,35,mucosa,female,p2101,--,Left,Healthy colon mucosa cells
+GSM1077627,63,mucosa,female,p2124,--,Right,Healthy colon mucosa cells
+GSM1077628,51,mucosa,male,p2147,--,Right,Healthy colon mucosa cells
+GSM1077629,51,mucosa,male,q2109,--,Right,Healthy colon mucosa cells
+GSM1077630,77,mucosa,male,q2132,--,Left,Healthy colon mucosa cells
+GSM1077631,77,mucosa,female,r2117,--,Right,Healthy colon mucosa cells
+GSM1077632,88,mucosa,female,r2140,--,Left,Healthy colon mucosa cells
+GSM1077633,59,mucosa,male,s2108,--,Left,Healthy colon mucosa cells
+GSM1077634,79,mucosa,female,s2131,--,Right,Healthy colon mucosa cells
+GSM1077635,66,mucosa,female,t2116,--,Left,Healthy colon mucosa cells
+GSM1077636,42,mucosa,male,t2139,--,Left,Healthy colon mucosa cells
+GSM1077637,86,mucosa,male,v2110,--,Left,Healthy colon mucosa cells
+GSM1077638,79,mucosa,male,v2133,--,Right,Healthy colon mucosa cells
+GSM1077639,74,mucosa,male,w2118,--,Left,Healthy colon mucosa cells
+GSM1077640,42,mucosa,male,w2141,--,Right,Healthy colon mucosa cells
+GSM1077641,43,mucosa,male,x2103,--,Left,Healthy colon mucosa cells
+GSM1077642,55,mucosa,male,x2126,--,Right,Healthy colon mucosa cells
+GSM1077643,82,mucosa,female,x2149,--,Right,Healthy colon mucosa cells
+GSM1077644,61,mucosa,male,y2122,--,Left,Healthy colon mucosa cells
+GSM1077645,72,mucosa,male,y2145,--,Left,Healthy colon mucosa cells
+GSM1077646,62,mucosa,male,z2107,--,Left,Healthy colon mucosa cells
+GSM1077647,56,mucosa,male,z2130,--,Left,Healthy colon mucosa cells
+GSM1077648,66,normal,male,a2004,--,Left,Normal distant colon mucosa cells
+GSM1077649,51,normal,female,a2027,--,Left,Normal distant colon mucosa cells
+GSM1077650,60,normal,male,a2050,--,Left,Normal distant colon mucosa cells
+GSM1077651,85,normal,female,a2096,--,Left,Normal distant colon mucosa cells
+GSM1077652,68,normal,female,b2012,--,Right,Normal distant colon mucosa cells
+GSM1077653,68,normal,male,b2035,--,Right,Normal distant colon mucosa cells
+GSM1077655,79,normal,female,b2081,--,Left,Normal distant colon mucosa cells
+GSM1077656,73,normal,male,c2021,--,Left,Normal distant colon mucosa cells
+GSM1077657,59,normal,female,c2044,--,Left,Normal distant colon mucosa cells
+GSM1077658,83,normal,male,c2067,--,Left,Normal distant colon mucosa cells
+GSM1077659,70,normal,male,c2090,--,Right,Normal distant colon mucosa cells
+GSM1077660,66,normal,male,d2010,--,Left,Normal distant colon mucosa cells
+GSM1077661,70,normal,male,d2033,--,Left,Normal distant colon mucosa cells
+GSM1077662,72,normal,female,d2056,--,Left,Normal distant colon mucosa cells
+GSM1077663,78,normal,male,d2079,--,Right,Normal distant colon mucosa cells
+GSM1077664,76,normal,female,e2023,--,Left,Normal distant colon mucosa cells
+GSM1077666,57,normal,male,e2069,--,Left,Normal distant colon mucosa cells
+GSM1077667,76,normal,male,e2092,--,Left,Normal distant colon mucosa cells
+GSM1077668,55,normal,female,f2008,--,Left,Normal distant colon mucosa cells
+GSM1077669,78,normal,male,f2031,--,Right,Normal distant colon mucosa cells
+GSM1077670,82,normal,male,f2054,--,Left,Normal distant colon mucosa cells
+GSM1077671,69,normal,male,f2077,--,Left,Normal distant colon mucosa cells
+GSM1077672,79,normal,female,f2100,--,Left,Normal distant colon mucosa cells
+GSM1077674,85,normal,male,g2028,--,Right,Normal distant colon mucosa cells
+GSM1077676,87,normal,male,g2074,--,Left,Normal distant colon mucosa cells
+GSM1077677,73,normal,female,g2097,--,Left,Normal distant colon mucosa cells
+GSM1077678,73,normal,male,h2019,--,Left,Normal distant colon mucosa cells
+GSM1077679,75,normal,male,h2042,--,Left,Normal distant colon mucosa cells
+GSM1077680,56,normal,male,h2065,--,Right,Normal distant colon mucosa cells
+GSM1077681,60,normal,male,h2088,--,Right,Normal distant colon mucosa cells
+GSM1077682,68,normal,male,j2014,--,Right,Normal distant colon mucosa cells
+GSM1077683,43,normal,male,j2037,--,Right,Normal distant colon mucosa cells
+GSM1077684,79,normal,male,j2060,--,Right,Normal distant colon mucosa cells
+GSM1077685,62,normal,female,j2083,--,Right,Normal distant colon mucosa cells
+GSM1077686,70,normal,male,k2022,--,Left,Normal distant colon mucosa cells
+GSM1077687,80,normal,male,k2045,--,Right,Normal distant colon mucosa cells
+GSM1077688,70,normal,male,k2068,--,Left,Normal distant colon mucosa cells
+GSM1077689,49,normal,male,k2091,--,Left,Normal distant colon mucosa cells
+GSM1077690,66,normal,male,l2020,--,Left,Normal distant colon mucosa cells
+GSM1077691,70,normal,male,l2043,--,Left,Normal distant colon mucosa cells
+GSM1077692,76,normal,male,l2066,--,Right,Normal distant colon mucosa cells
+GSM1077693,83,normal,male,l2089,--,Left,Normal distant colon mucosa cells
+GSM1077694,58,normal,male,m2006,--,Right,Normal distant colon mucosa cells
+GSM1077695,67,normal,male,m2029,--,Right,Normal distant colon mucosa cells
+GSM1077696,71,normal,male,m2052,--,Left,Normal distant colon mucosa cells
+GSM1077697,79,normal,male,m2075,--,Left,Normal distant colon mucosa cells
+GSM1077698,68,normal,male,m2098,--,Right,Normal distant colon mucosa cells
+GSM1077699,65,normal,male,n2013,--,Right,Normal distant colon mucosa cells
+GSM1077700,65,normal,male,n2036,--,Left,Normal distant colon mucosa cells
+GSM1077701,74,normal,male,n2059,--,Left,Normal distant colon mucosa cells
+GSM1077702,73,normal,male,n2082,--,Left,Normal distant colon mucosa cells
+GSM1077703,62,normal,male,p2009,--,Left,Normal distant colon mucosa cells
+GSM1077704,67,normal,female,p2032,--,Left,Normal distant colon mucosa cells
+GSM1077705,57,normal,male,p2055,--,Left,Normal distant colon mucosa cells
+GSM1077708,75,normal,male,q2040,--,Left,Normal distant colon mucosa cells
+GSM1077710,83,normal,male,q2086,--,Right,Normal distant colon mucosa cells
+GSM1077711,84,normal,female,r2002,--,Right,Normal distant colon mucosa cells
+GSM1077712,73,normal,male,r2025,--,Left,Normal distant colon mucosa cells
+GSM1077713,73,normal,male,r2048,--,Left,Normal distant colon mucosa cells
+GSM1077714,76,normal,male,r2071,--,Left,Normal distant colon mucosa cells
+GSM1077715,61,normal,female,r2094,--,Right,Normal distant colon mucosa cells
+GSM1077716,78,normal,female,s2016,--,Left,Normal distant colon mucosa cells
+GSM1077717,78,normal,male,s2039,--,Right,Normal distant colon mucosa cells
+GSM1077718,70,normal,male,s2062,--,Right,Normal distant colon mucosa cells
+GSM1077719,79,normal,female,t2001,--,Right,Normal distant colon mucosa cells
+GSM1077720,80,normal,male,t2024,--,Right,Normal distant colon mucosa cells
+GSM1077721,70,normal,male,t2047,--,Left,Normal distant colon mucosa cells
+GSM1077722,64,normal,female,t2070,--,Right,Normal distant colon mucosa cells
+GSM1077724,64,normal,male,v2018,--,Left,Normal distant colon mucosa cells
+GSM1077725,73,normal,male,v2041,--,Right,Normal distant colon mucosa cells
+GSM1077726,82,normal,female,v2064,--,Left,Normal distant colon mucosa cells
+GSM1077727,72,normal,male,v2087,--,Right,Normal distant colon mucosa cells
+GSM1077728,79,normal,male,w2003,--,Left,Normal distant colon mucosa cells
+GSM1077729,69,normal,female,w2026,--,Left,Normal distant colon mucosa cells
+GSM1077730,55,normal,male,w2049,--,Left,Normal distant colon mucosa cells
+GSM1077731,67,normal,female,w2072,--,Left,Normal distant colon mucosa cells
+GSM1077732,65,normal,male,w2095,--,Right,Normal distant colon mucosa cells
+GSM1077733,75,normal,male,x2011,--,Left,Normal distant colon mucosa cells
+GSM1077734,55,normal,female,x2034,--,Left,Normal distant colon mucosa cells
+GSM1077735,73,normal,male,x2057,--,Right,Normal distant colon mucosa cells
+GSM1077736,69,normal,male,x2080,--,Left,Normal distant colon mucosa cells
+GSM1077737,62,normal,female,y2007,--,Right,Normal distant colon mucosa cells
+GSM1077738,69,normal,female,y2030,--,Right,Normal distant colon mucosa cells
+GSM1077739,71,normal,male,y2053,--,Left,Normal distant colon mucosa cells
+GSM1077740,78,normal,male,y2076,--,Right,Normal distant colon mucosa cells
+GSM1077741,72,normal,male,y2099,--,Right,Normal distant colon mucosa cells
+GSM1077742,84,normal,male,z2015,--,Right,Normal distant colon mucosa cells
+GSM1077743,65,normal,female,z2038,--,Right,Normal distant colon mucosa cells
+GSM1077744,53,normal,male,z2061,--,Left,Normal distant colon mucosa cells
+GSM1077745,81,normal,male,z2084,--,Left,Normal distant colon mucosa cells
+GSM1077746,66,tumor,male,a2004,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077747,51,tumor,female,a2027,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077748,60,tumor,male,a2050,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077749,85,tumor,female,a2096,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077750,68,tumor,female,b2012,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077751,68,tumor,male,b2035,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077753,79,tumor,female,b2081,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077754,73,tumor,male,c2021,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077755,59,tumor,female,c2044,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077756,83,tumor,male,c2067,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077757,70,tumor,male,c2090,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077758,66,tumor,male,d2010,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077759,70,tumor,male,d2033,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077760,72,tumor,female,d2056,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077761,78,tumor,male,d2079,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077762,76,tumor,female,e2023,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077764,57,tumor,male,e2069,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077765,76,tumor,male,e2092,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077766,55,tumor,female,f2008,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077767,78,tumor,male,f2031,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077768,82,tumor,male,f2054,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077769,69,tumor,male,f2077,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077770,79,tumor,female,f2100,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077772,85,tumor,male,g2028,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077774,87,tumor,male,g2074,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077775,73,tumor,female,g2097,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077776,73,tumor,male,h2019,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077777,75,tumor,male,h2042,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077778,56,tumor,male,h2065,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077779,60,tumor,male,h2088,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077780,68,tumor,male,j2014,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077781,43,tumor,male,j2037,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077782,79,tumor,male,j2060,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077783,62,tumor,female,j2083,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077784,70,tumor,male,k2022,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077785,80,tumor,male,k2045,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077786,70,tumor,male,k2068,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077787,49,tumor,male,k2091,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077788,66,tumor,male,l2020,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077789,70,tumor,male,l2043,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077790,76,tumor,male,l2066,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077791,83,tumor,male,l2089,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077792,58,tumor,male,m2006,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077793,67,tumor,male,m2029,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077794,71,tumor,male,m2052,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077795,79,tumor,male,m2075,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077796,68,tumor,male,m2098,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077797,65,tumor,male,n2013,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077798,65,tumor,male,n2036,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077799,74,tumor,male,n2059,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077800,73,tumor,male,n2082,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077801,62,tumor,male,p2009,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077802,67,tumor,female,p2032,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077803,57,tumor,male,p2055,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077806,75,tumor,male,q2040,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077808,83,tumor,male,q2086,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077809,84,tumor,female,r2002,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077810,73,tumor,male,r2025,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077811,73,tumor,male,r2048,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077812,76,tumor,male,r2071,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077813,61,tumor,female,r2094,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077814,78,tumor,female,s2016,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077815,78,tumor,male,s2039,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077816,70,tumor,male,s2062,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077817,79,tumor,female,t2001,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077818,80,tumor,male,t2024,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077819,70,tumor,male,t2047,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077820,64,tumor,female,t2070,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077822,64,tumor,male,v2018,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077823,73,tumor,male,v2041,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077824,82,tumor,female,v2064,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077825,72,tumor,male,v2087,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077826,79,tumor,male,w2003,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077827,69,tumor,female,w2026,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077828,55,tumor,male,w2049,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077829,67,tumor,female,w2072,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077830,65,tumor,male,w2095,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077831,75,tumor,male,x2011,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077832,55,tumor,female,x2034,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077833,73,tumor,male,x2057,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077834,69,tumor,male,x2080,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077835,62,tumor,female,y2007,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077836,69,tumor,female,y2030,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077837,71,tumor,male,y2053,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077838,78,tumor,male,y2076,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077839,72,tumor,male,y2099,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077840,84,tumor,male,z2015,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077841,65,tumor,female,z2038,IIA,Right,Primary colon adenocarcinoma cells
+GSM1077842,53,tumor,male,z2061,IIA,Left,Primary colon adenocarcinoma cells
+GSM1077843,81,tumor,male,z2084,IIA,Left,Primary colon adenocarcinoma cells
